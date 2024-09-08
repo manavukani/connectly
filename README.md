@@ -6,8 +6,7 @@
 2. [Tech Stack](#tech-stack)
 3. [Features](#features)
 4. [Quick Start](#quick-start)
-5. [Assets & Code](#snippets)
-6. [More](#more)
+5. [Snippets](#snippets)
 
 ## Introduction
 
